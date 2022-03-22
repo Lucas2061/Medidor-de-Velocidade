@@ -11,7 +11,7 @@ Critically analyze the problem and discover:
 2. What should I do with this data?
 - Taking into account that if the person is below the maximum speed, your program should display "there was no fine", if it is up to 10 km above, it should display: "Took a light fine" if it is between 11 to 20 km above the maximum speed, display: "Took a serious fine", and if you are over 20km above the maximum speed, display: "Took a very serious fine"
 3. What are the constraints of this problem?
--
+- Not found
 4. What is the expected result?
 - The expected result is to display the message that corresponds to the level of the fine that the person took (display: "Took a light fine" if it is between 11 to 20 km above the maximum speed, display: "Took a serious fine", and if it is above 20km above the maximum speed, display: "He got a very serious fine")
 5. What is the sequence of steps to be taken to reach the expected result?
@@ -38,7 +38,7 @@ Analise críticamente o problema e descubra:
 2. O que devo fazer com estes dados?
 - Levando em consideração que se a pessoa estiver abaixo da velocidade máxima seu programa deve exibir "não houve multa", caso esteja até 10km acima, deve exibir: "Levou multa leve" caso esteja entre 11 a 20km acima da velocidade máxima, exibir: "Levou multa grave", e caso esteja acima de 20km acima da velocidade máxima, exiba: "Levou multa gravíssima"
 3. Quais são as restrições deste problema?
--
+- Não encontrado
 4. Qual é o resultado esperado?
 - O resultado esperado é exibir a mensagem que corresponde ao nível da multa que a pessoa levou (exibir: "Levou multa leve" caso esteja entre 11 a 20km acima da velocidade máxima, exibir: "Levou multa grave", e caso esteja acima de 20km acima da velocidade máxima, exiba: "Levou multa gravíssima")
 5. Qual é a sequencia de passos a ser feitas para chegar ao resultado esperado?
